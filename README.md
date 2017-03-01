@@ -1,6 +1,8 @@
 # miptmlcourse
 MIPT ML course Feb-May 2017: introduction to ML and DL
 
+Slack: https://miptmlcourse.slack.com
+
 ## Videos
 
 1. [Lecture 1](https://youtu.be/NIfFXmtLYyE)
