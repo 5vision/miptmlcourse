@@ -17,3 +17,4 @@ Untitled*.ipynb
 *_test.py
 *.data
 *.h5
+*MNIST_data
