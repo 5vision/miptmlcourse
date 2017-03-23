@@ -1,5 +1,5 @@
 
-##Part 1
+## Part 1
 
 1. Derive LS formula for linear regression in matrix form.
 2. Derive LS formula with L2 regularization.
