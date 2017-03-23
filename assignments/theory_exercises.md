@@ -1,4 +1,6 @@
 
+##Part 1
+
 1. Derive LS formula for linear regression in matrix form.
 2. Derive LS formula with L2 regularization.
 3. Derive formula for gradient of binary cross entropy in logistic regression.
@@ -9,4 +11,7 @@
 8. Derive MLE of parameters of Naive Bayes Classifier.
 9. Prove that Hessian matrix for loss function in logistic regression is positive semi-definite.
 10. Derive formulas for optimization step in Newton's algorithm.
-11. Show that minimizing cross-entropy equivalent to minimizing KL divergence.
+
+## Part 2
+
+1. Show that minimizing cross-entropy equivalent to minimizing KL divergence.
