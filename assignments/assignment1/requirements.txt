@@ -1,0 +1,8 @@
+jupyter>=1.0.0
+Keras>=2.0.1
+matplotlib>=2.0.0
+numpy>=1.12.1
+scikit-learn>=0.18.1
+scipy>=0.18.1
+tensorflow==1.0.0rc1
+tqdm>=3.8.0

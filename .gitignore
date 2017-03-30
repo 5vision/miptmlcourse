@@ -12,7 +12,6 @@
 *_test.ipynb
 *_temp.ipynb
 *.ipynb_checkpoints
-*.txt
 Untitled*.ipynb
 *_test.py
 *.data
