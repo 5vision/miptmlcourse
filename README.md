@@ -3,6 +3,8 @@ MIPT ML course Feb-May 2017: introduction to ML and DL
 
 Slack: https://miptmlcourse.slack.com
 
+Link to Kaggle page on practical assignment #2: https://inclass.kaggle.com/c/classroom-diabetic-retinopathy-detection-competition 
+
 ## Videos
 
 1. [Lecture 1](https://youtu.be/NIfFXmtLYyE)
