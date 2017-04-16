@@ -13,3 +13,4 @@ Kaggle page on practical assignment #2: [link](https://inclass.kaggle.com/c/clas
 4. [Lecture 4](https://youtu.be/LcbMn1eI9gM?t=1)
 5. [Lecture 5](https://youtu.be/BovOZwolIlY?t=1)
 6. [Lecture 6](https://youtu.be/Z_iOm4z4nQc?t=1)
+7. [Lecture 7](https://youtu.be/zV2eaKPEnEo?t=1)
