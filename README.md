@@ -19,3 +19,5 @@ Kaggle page on practical assignment #3: [link](https://inclass.kaggle.com/c/clas
 8. [Lecture 8](https://www.youtube.com/watch?v=HrW6PXmfPTE&t)
 9. [Lecture 9](https://www.youtube.com/watch?v=hjCS33GJqOI&t)
 10. [Lecture 10](https://www.youtube.com/watch?v=EQ-JE38e8XE)
+11. [Lecture 11](https://www.youtube.com/watch?v=6FkCr94Mt-c)
+12. [Lecture 12](https://www.youtube.com/watch?v=lRXqXEoieR8)
